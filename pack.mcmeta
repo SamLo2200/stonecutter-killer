@@ -1,6 +1,6 @@
 {
     "pack": {
-        "pack_format": 41,
+        "pack_format": 48,
         "description": "Apply damage to the player when standing on a stonecutter."
     }
 }
